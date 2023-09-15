@@ -1,0 +1,28 @@
+table{
+    Width:100%;
+}
+h1{
+    text-align: Center;
+}
+td,th{
+    border: 2px solid black;
+    width: 14.27%
+}
+th{
+    Padding: 8px 0;
+    background-color:teal;
+    color:lightblue;
+}
+td{
+    Font-weight: bold;
+    Font-size: 24px;
+    Padding-bottom: 32px;
+}
+.weekend{
+    background-color: Purple;
+    color: white;
+}
+.Weekday{
+    Background-color:darkcyan;
+    color: bisque;
+}
